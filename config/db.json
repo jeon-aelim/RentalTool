@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "dlekqhd111",
+      "database": "rental_db",
+      "host": "127.0.0.1",
+      "port": "3306",
+      "dialect": "mysql",
+      "timezone" : "+09:00",
+      "logging": true
+    },
+    "production": {
+      "username": "root",
+      "password": "dlekqhd111",
+      "database": "rental_db",
+      "host": "127.0.0.1",
+      "port": "3306",
+      "dialect": "mysql",
+      "timezone" : "+09:00",
+      "logging": true
+    }
+  }
+  

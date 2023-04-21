@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "root",
+      "password": "dlekqhd111",
+      "database": "rental_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "dlekqhd111",
+      "database": "rental_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "dlekqhd111",
+      "database": "rental_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "salt" : "rheenltlaolwtoorolld2626"
+  
+}
